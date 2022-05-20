@@ -10,3 +10,8 @@ public class AAA {
 	}
 
 }
+
+output is:
+=========
+	70
+	
